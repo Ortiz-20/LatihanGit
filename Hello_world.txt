@@ -1,3 +1,5 @@
--
+123
 ini nyoba git+VS COde
 mencoba commit ke-2 merubah line 1
+commit ke-2 line 1 tidak berubah coba commit ke3
+comit k4 nih bos yang ke3 tetep ga berubah line 1nya
